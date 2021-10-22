@@ -1,14 +1,12 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/lab1.dir/Classes/Animal.cpp.obj"
-  "CMakeFiles/lab1.dir/Classes/Cat.cpp.obj"
-  "CMakeFiles/lab1.dir/Classes/Dog.cpp.obj"
-  "CMakeFiles/lab1.dir/Classes/Person.cpp.obj"
-  "CMakeFiles/lab1.dir/Classes/Student.cpp.obj"
-  "CMakeFiles/lab1.dir/Classes/Teacher.cpp.obj"
-  "CMakeFiles/lab1.dir/main.cpp.obj"
-  "lab1.exe"
-  "lab1.exe.manifest"
-  "lab1.lib"
+  "CMakeFiles/lab1.dir/Classes/Animal.cpp.o"
+  "CMakeFiles/lab1.dir/Classes/Cat.cpp.o"
+  "CMakeFiles/lab1.dir/Classes/Dog.cpp.o"
+  "CMakeFiles/lab1.dir/Classes/Person.cpp.o"
+  "CMakeFiles/lab1.dir/Classes/Student.cpp.o"
+  "CMakeFiles/lab1.dir/Classes/Teacher.cpp.o"
+  "CMakeFiles/lab1.dir/main.cpp.o"
+  "lab1"
   "lab1.pdb"
 )
 

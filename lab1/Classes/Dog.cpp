@@ -8,6 +8,10 @@
 
 using namespace std;
 
+Dog::Dog(){
+
+}
+
 Dog::Dog(string breed1, int levelOfGuideSkills1, int levelOfTrackerSkills1, int limbNr1, string name1, bool protectedAnimal1)
 :Animal(limbNr1, name1, protectedAnimal1) {
     breed = breed1;

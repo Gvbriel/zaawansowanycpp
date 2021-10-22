@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gabrielpolak/Documents/zaawansowanycpp/lab2/Circle.cpp
+Circle.h
+/Users/gabrielpolak/Documents/zaawansowanycpp/lab2/Circle.h
+iostream
+-
+math.h
+-
+
+/Users/gabrielpolak/Documents/zaawansowanycpp/lab2/Circle.h
+iostream
+-
+Figure.h
+/Users/gabrielpolak/Documents/zaawansowanycpp/lab2/Figure.h
+
+/Users/gabrielpolak/Documents/zaawansowanycpp/lab2/Figure.h
+iostream
+-
+
+/Users/gabrielpolak/Documents/zaawansowanycpp/lab2/Square.cpp
+Square.h
+/Users/gabrielpolak/Documents/zaawansowanycpp/lab2/Square.h
+iostream
+-
+
+/Users/gabrielpolak/Documents/zaawansowanycpp/lab2/Square.h
+iostream
+-
+Figure.h
+/Users/gabrielpolak/Documents/zaawansowanycpp/lab2/Figure.h
+
