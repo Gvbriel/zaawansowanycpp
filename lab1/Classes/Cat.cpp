@@ -3,6 +3,10 @@
 
 using namespace std;
 
+Cat::Cat() {
+    cout << "Bez arugmentowy konstruktor" << endl;
+}
+
 Cat::Cat(int limbNr1, string name1, bool protectedAnimal1): Animal(limbNr1, name1, protectedAnimal1) {
 
 }

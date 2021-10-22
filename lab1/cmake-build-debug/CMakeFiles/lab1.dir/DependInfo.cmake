@@ -8,15 +8,15 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/gabri/CLionProjects/lab1/Classes/Animal.cpp" "C:/Users/gabri/CLionProjects/lab1/cmake-build-debug/CMakeFiles/lab1.dir/Classes/Animal.cpp.obj"
-  "C:/Users/gabri/CLionProjects/lab1/Classes/Cat.cpp" "C:/Users/gabri/CLionProjects/lab1/cmake-build-debug/CMakeFiles/lab1.dir/Classes/Cat.cpp.obj"
-  "C:/Users/gabri/CLionProjects/lab1/Classes/Dog.cpp" "C:/Users/gabri/CLionProjects/lab1/cmake-build-debug/CMakeFiles/lab1.dir/Classes/Dog.cpp.obj"
-  "C:/Users/gabri/CLionProjects/lab1/Classes/Person.cpp" "C:/Users/gabri/CLionProjects/lab1/cmake-build-debug/CMakeFiles/lab1.dir/Classes/Person.cpp.obj"
-  "C:/Users/gabri/CLionProjects/lab1/Classes/Student.cpp" "C:/Users/gabri/CLionProjects/lab1/cmake-build-debug/CMakeFiles/lab1.dir/Classes/Student.cpp.obj"
-  "C:/Users/gabri/CLionProjects/lab1/Classes/Teacher.cpp" "C:/Users/gabri/CLionProjects/lab1/cmake-build-debug/CMakeFiles/lab1.dir/Classes/Teacher.cpp.obj"
-  "C:/Users/gabri/CLionProjects/lab1/main.cpp" "C:/Users/gabri/CLionProjects/lab1/cmake-build-debug/CMakeFiles/lab1.dir/main.cpp.obj"
+  "/Users/gabrielpolak/Documents/zaawansowanycpp/lab1/Classes/Animal.cpp" "/Users/gabrielpolak/Documents/zaawansowanycpp/lab1/cmake-build-debug/CMakeFiles/lab1.dir/Classes/Animal.cpp.o"
+  "/Users/gabrielpolak/Documents/zaawansowanycpp/lab1/Classes/Cat.cpp" "/Users/gabrielpolak/Documents/zaawansowanycpp/lab1/cmake-build-debug/CMakeFiles/lab1.dir/Classes/Cat.cpp.o"
+  "/Users/gabrielpolak/Documents/zaawansowanycpp/lab1/Classes/Dog.cpp" "/Users/gabrielpolak/Documents/zaawansowanycpp/lab1/cmake-build-debug/CMakeFiles/lab1.dir/Classes/Dog.cpp.o"
+  "/Users/gabrielpolak/Documents/zaawansowanycpp/lab1/Classes/Person.cpp" "/Users/gabrielpolak/Documents/zaawansowanycpp/lab1/cmake-build-debug/CMakeFiles/lab1.dir/Classes/Person.cpp.o"
+  "/Users/gabrielpolak/Documents/zaawansowanycpp/lab1/Classes/Student.cpp" "/Users/gabrielpolak/Documents/zaawansowanycpp/lab1/cmake-build-debug/CMakeFiles/lab1.dir/Classes/Student.cpp.o"
+  "/Users/gabrielpolak/Documents/zaawansowanycpp/lab1/Classes/Teacher.cpp" "/Users/gabrielpolak/Documents/zaawansowanycpp/lab1/cmake-build-debug/CMakeFiles/lab1.dir/Classes/Teacher.cpp.o"
+  "/Users/gabrielpolak/Documents/zaawansowanycpp/lab1/main.cpp" "/Users/gabrielpolak/Documents/zaawansowanycpp/lab1/cmake-build-debug/CMakeFiles/lab1.dir/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "MSVC")
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

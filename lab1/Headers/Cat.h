@@ -10,6 +10,7 @@ private:
     int mice[5];
 public:
     Cat(int limbNr1, string name1, bool protectedAnimal1);
+    Cat();
     void initCat(int levelOfMouseHunting1);
     void initMiceCin();
     void initMiceAr(int mices[]);

@@ -13,6 +13,7 @@ private:
     int levelOfGuideSkills;
     int levelOfTrackerSkills;
 public:
+    Dog();
     Dog(string breed1, int levelOfGuideSkills1, int levelOfTrackerSkills1, int limbNr1, string name1, bool protectedAnimal1);
     Dog(int limbNr1, string name1, bool protectedAnimal1);
     void setSkillLevel(int type, int value);

@@ -21,10 +21,11 @@ int howManyTrackerDogs(Dog *dogs[], int len);
 
 
 int main() {
-//    zad1();
-//    zad2();
-//   zad3();
-//   zad4dog();
+    cout << "\n------------HowManyProtectedAnimals------------"<<endl;
+    zad3();
+    cout << "\n------------HowManyTrackerDogs------------"<<endl;
+    zad4dog();
+    cout << "\n------------HowManyCats------------"<<endl;
     zad5cat();
 }
 
@@ -51,6 +52,7 @@ void howManyCats(Cat *cats[], int len){
             total += cats[i]->getMice(x);
         }
         cout << "Kot nr " << i+1 << ", w ciagu 5 lat zlapal " << total << " myszy.\n";
+        total = 0;
     }
 }
 
