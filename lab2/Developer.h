@@ -11,7 +11,9 @@ using namespace std;
 
 class Developer: public Employee {
 public:
-
+    Developer(string surname1, int age1, int experience1, float salary1);
+    Developer();
+    int calculateSalary(int value) override;
 
 };
 

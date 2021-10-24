@@ -16,3 +16,31 @@ Employee::Employee(string surname1, int age1, int experience1, float salary1) {
     experience = experience1;
     salary = salary1;
 }
+
+int Employee::getAge() {
+    return age;
+}
+
+int Employee::getExperience() {
+    return experience;
+}
+
+const string &Employee::getSurname() const {
+    return surname;
+}
+
+void Employee::show(){
+    cout << "It's me!\n";
+}
+
+int Employee::ageEmployment() {
+    return age - experience;
+}
+
+float Employee::getSalary() {
+    return salary;
+}
+
+Employee::~Employee() {
+
+}
