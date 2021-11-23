@@ -8,14 +8,18 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/gabrielpolak/Documents/zaawansowanycpp/lab2/Circle.cpp" "/Users/gabrielpolak/Documents/zaawansowanycpp/lab2/cmake-build-debug/CMakeFiles/lab2.dir/Circle.cpp.o"
-  "/Users/gabrielpolak/Documents/zaawansowanycpp/lab2/Developer.cpp" "/Users/gabrielpolak/Documents/zaawansowanycpp/lab2/cmake-build-debug/CMakeFiles/lab2.dir/Developer.cpp.o"
-  "/Users/gabrielpolak/Documents/zaawansowanycpp/lab2/Employee.cpp" "/Users/gabrielpolak/Documents/zaawansowanycpp/lab2/cmake-build-debug/CMakeFiles/lab2.dir/Employee.cpp.o"
-  "/Users/gabrielpolak/Documents/zaawansowanycpp/lab2/Figure.cpp" "/Users/gabrielpolak/Documents/zaawansowanycpp/lab2/cmake-build-debug/CMakeFiles/lab2.dir/Figure.cpp.o"
-  "/Users/gabrielpolak/Documents/zaawansowanycpp/lab2/Square.cpp" "/Users/gabrielpolak/Documents/zaawansowanycpp/lab2/cmake-build-debug/CMakeFiles/lab2.dir/Square.cpp.o"
-  "/Users/gabrielpolak/Documents/zaawansowanycpp/lab2/main.cpp" "/Users/gabrielpolak/Documents/zaawansowanycpp/lab2/cmake-build-debug/CMakeFiles/lab2.dir/main.cpp.o"
+  "C:/Users/gabri/CLionProjects/lab2/Bufor.cpp" "C:/Users/gabri/CLionProjects/lab2/cmake-build-debug/CMakeFiles/lab2.dir/Bufor.cpp.obj"
+  "C:/Users/gabri/CLionProjects/lab2/Circle.cpp" "C:/Users/gabri/CLionProjects/lab2/cmake-build-debug/CMakeFiles/lab2.dir/Circle.cpp.obj"
+  "C:/Users/gabri/CLionProjects/lab2/Developer.cpp" "C:/Users/gabri/CLionProjects/lab2/cmake-build-debug/CMakeFiles/lab2.dir/Developer.cpp.obj"
+  "C:/Users/gabri/CLionProjects/lab2/Employee.cpp" "C:/Users/gabri/CLionProjects/lab2/cmake-build-debug/CMakeFiles/lab2.dir/Employee.cpp.obj"
+  "C:/Users/gabri/CLionProjects/lab2/Figure.cpp" "C:/Users/gabri/CLionProjects/lab2/cmake-build-debug/CMakeFiles/lab2.dir/Figure.cpp.obj"
+  "C:/Users/gabri/CLionProjects/lab2/MaxBufor.cpp" "C:/Users/gabri/CLionProjects/lab2/cmake-build-debug/CMakeFiles/lab2.dir/MaxBufor.cpp.obj"
+  "C:/Users/gabri/CLionProjects/lab2/MeanBufor.cpp" "C:/Users/gabri/CLionProjects/lab2/cmake-build-debug/CMakeFiles/lab2.dir/MeanBufor.cpp.obj"
+  "C:/Users/gabri/CLionProjects/lab2/Square.cpp" "C:/Users/gabri/CLionProjects/lab2/cmake-build-debug/CMakeFiles/lab2.dir/Square.cpp.obj"
+  "C:/Users/gabri/CLionProjects/lab2/TeamLeader.cpp" "C:/Users/gabri/CLionProjects/lab2/cmake-build-debug/CMakeFiles/lab2.dir/TeamLeader.cpp.obj"
+  "C:/Users/gabri/CLionProjects/lab2/main.cpp" "C:/Users/gabri/CLionProjects/lab2/cmake-build-debug/CMakeFiles/lab2.dir/main.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_CXX_COMPILER_ID "MSVC")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

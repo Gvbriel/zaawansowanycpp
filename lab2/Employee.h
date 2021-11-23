@@ -18,8 +18,12 @@ public:
     Employee();
     ~Employee();
     virtual void show();
-    virtual void calculateSalary(int value) = 0;
+    virtual int calculateSalary(int value) = 0;
+    float getSalary();
     int ageEmployment();
+    int getAge();
+    int getExperience();
+    const string &getSurname() const;
 };
 
 
