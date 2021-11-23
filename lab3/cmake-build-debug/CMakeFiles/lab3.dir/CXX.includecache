@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gabrielpolak/Documents/zaawansowanycpp/lab3/MyArray.h
+iostream
+-
+string
+/Users/gabrielpolak/Documents/zaawansowanycpp/lab3/string
+iostream
+-
+
+/Users/gabrielpolak/Documents/zaawansowanycpp/lab3/main.cpp
+iostream
+-
+string
+/Users/gabrielpolak/Documents/zaawansowanycpp/lab3/string
+MyArray.h
+/Users/gabrielpolak/Documents/zaawansowanycpp/lab3/MyArray.h
+
