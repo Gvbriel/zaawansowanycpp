@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/gabri/CLionProjects/lab5/Dictionary.cpp
+Dictionary.h
+C:/Users/gabri/CLionProjects/lab5/Dictionary.h
+utility
+-
+
+C:/Users/gabri/CLionProjects/lab5/Dictionary.h
+iostream
+-
+map
+-
+string
+-
+algorithm
+-
+vector
+-
+

@@ -24,6 +24,7 @@ public:
     void show();
     void add(T el);
     T showElement(int index);
+
 };
 
 
@@ -40,6 +41,13 @@ using namespace std;
 void swap(int *xp, int *yp)
 {
     int temp = *xp;
+    *xp = *yp;
+    *yp = temp;
+}
+
+void swapString(string *xp, string *yp)
+{
+    string temp = *xp;
     *xp = *yp;
     *yp = temp;
 }
@@ -76,14 +84,15 @@ string MyArray<string>::max(){
     return tab[indeks];
 }
 
-//template<>
-//void MyArray<string>::sortUp() {
-//    int i, j;
-//    for (i = 0; i < size-1; i++)
-//        for (j = 0; j < size-i-1; j++)
-//            if (tab[j].length() > tab[j+1].length())
-//                swap(&tab[j], &tab[j+1]);
-//}
+template<>
+void MyArray<string>::sortUp() {
+    int i, j;
+    for (i = 0; i < size-1; i++)
+        for (j = 0; j < size-i-1; j++)
+            if (tab[j].length() > tab[j+1].length())
+                swapString(&tab[j], &tab[j+1]);
+}
+
 
 template<typename T>
 T MyArray<T>::max() {
