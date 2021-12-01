@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/lab5.dir/Dictionary.cpp.obj"
-  "CMakeFiles/lab5.dir/main.cpp.obj"
-  "lab5.exe"
-  "lab5.exe.manifest"
-  "lab5.lib"
+  "CMakeFiles/lab5.dir/Dictionary.cpp.o"
+  "CMakeFiles/lab5.dir/main.cpp.o"
+  "lab5"
   "lab5.pdb"
 )
 

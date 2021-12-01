@@ -11,9 +11,9 @@ using namespace std;
 
 int main(){
     Dictionary Polski;
-    Polski.addWord("stachu", "essa");
-    Polski.addWord("siema", "cop");
-    Polski.addWord("aaa", "dupa");
+    Polski.addWord("bbb", "b2");
+    Polski.addWord("ccc", "c3");
+    Polski.addWord("aaa", "a1");
     Polski.showDictionary();
     Polski.sortDictionary();
 

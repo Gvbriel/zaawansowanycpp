@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/gabri/CLionProjects/lab5/Dictionary.cpp
+/Users/gabrielpolak/Documents/zaawansowanycpp/lab5/Dictionary.cpp
 Dictionary.h
-C:/Users/gabri/CLionProjects/lab5/Dictionary.h
+/Users/gabrielpolak/Documents/zaawansowanycpp/lab5/Dictionary.h
 utility
 -
 
-C:/Users/gabri/CLionProjects/lab5/Dictionary.h
+/Users/gabrielpolak/Documents/zaawansowanycpp/lab5/Dictionary.h
 iostream
 -
 map
