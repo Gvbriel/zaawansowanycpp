@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/gabri/CLionProjects/lab3trening/MyArray.cpp
+MyArray.h
+C:/Users/gabri/CLionProjects/lab3trening/MyArray.h
+
+C:/Users/gabri/CLionProjects/lab3trening/MyArray.h
+iostream
+-
+
+C:/Users/gabri/CLionProjects/lab3trening/main.cpp
+iostream
+-
+MyArray.h
+C:/Users/gabri/CLionProjects/lab3trening/MyArray.h
+

@@ -1,0 +1,3 @@
+C:/Users/gabri/CLionProjects/lab4trening/cmake-build-debug/CMakeFiles/lab4trening.dir
+C:/Users/gabri/CLionProjects/lab4trening/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gabri/CLionProjects/lab4trening/cmake-build-debug/CMakeFiles/rebuild_cache.dir

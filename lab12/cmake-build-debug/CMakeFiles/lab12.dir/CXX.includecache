@@ -6,11 +6,27 @@
 
 #IncludeRegexTransform: 
 
-/Users/gabrielpolak/Documents/zaawansowanycpp/lab12/main.cpp
+C:/Users/gabri/CLionProjects/lab12/Car.h
+iostream
+-
+string
+-
+
+C:/Users/gabri/CLionProjects/lab12/main.cpp
 iostream
 -
 vector
 -
+tuple
+-
+unordered_map
+-
 numeric
 -
+string
+-
+algorithm
+-
+Car.h
+C:/Users/gabri/CLionProjects/lab12/Car.h
 

@@ -1,6 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/lab12.dir/main.cpp.o"
-  "lab12"
+  "CMakeFiles/lab12.dir/Car.cpp.obj"
+  "CMakeFiles/lab12.dir/main.cpp.obj"
+  "lab12.exe"
+  "lab12.exe.manifest"
+  "lab12.lib"
   "lab12.pdb"
 )
 

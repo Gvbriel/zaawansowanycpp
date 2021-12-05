@@ -5,6 +5,7 @@
 #include "Dictionary.h"
 
 #include <utility>
+#include <unordered_map>
 
 
 template<typename T>
@@ -40,30 +41,33 @@ void Dictionary::showDictionary() {
 
 void Dictionary::sortDictionary(){
     vector<string> wordsVec;
-    map<string,string> temp;
+    unordered_map<string,string> temp;
 
+    for(auto it = words.begin(); it != words.end(); ++it){
+        cout << it->first << endl;
+    }
     for(map<string,string>::iterator it = words.begin(); it != words.end(); it++){
         wordsVec.push_back(it->second);
     }
-    sort(wordsVec.begin(), wordsVec.end());
+
+    cout << "\nPosortowane tlumaczenia:" << endl;
+    sort(wordsVec.begin(), wordsVec.end(), [](string a, string b){
+        return a > b;
+    });
+
     for_each(wordsVec.begin(), wordsVec.end(), showV<string>);
 
     cout << "\nTrwa sortowanie\n" << endl;
-    pair<string,string> word;
+    //pair<string,string> word;
     string wordTemp;
     for(auto it = wordsVec.begin(); it != wordsVec.end(); it++){
-        cout << *&words.find(*it)->second << endl;
-        if(words.find(*it) != words.end()){
-            word = *words.find(*it);
-
-            temp.insert(word);
-            words.erase(*it);
-        }
+        auto found = find_if(words.begin(), words.end(), [it](pair<string,string> pair){
+            return pair.second == *it;
+        });
+        temp.insert(*found);
     }
 
-    words = temp;
-
-    for(auto it = temp.begin(); it != temp.end(); it++){
-        cout << it->second << endl;
+    for(auto it = temp.begin(); it != temp.end(); ++it){
+        cout << it->first << endl;
     }
 }

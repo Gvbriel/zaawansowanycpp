@@ -6,12 +6,6 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/gabri/CLionProjects/lab5/Dictionary.cpp
-Dictionary.h
-C:/Users/gabri/CLionProjects/lab5/Dictionary.h
-utility
--
-
 C:/Users/gabri/CLionProjects/lab5/Dictionary.h
 iostream
 -
@@ -23,4 +17,22 @@ algorithm
 -
 vector
 -
+
+C:/Users/gabri/CLionProjects/lab5/main.cpp
+iostream
+-
+utility
+-
+vector
+-
+map
+-
+set
+-
+algorithm
+-
+iterator
+-
+Dictionary.h
+C:/Users/gabri/CLionProjects/lab5/Dictionary.h
 
