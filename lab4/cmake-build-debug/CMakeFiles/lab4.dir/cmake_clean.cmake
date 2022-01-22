@@ -1,11 +1,9 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/lab4.dir/Class/Citizen.cpp.obj"
-  "CMakeFiles/lab4.dir/Class/City.cpp.obj"
-  "CMakeFiles/lab4.dir/Class/PostalCode.cpp.obj"
-  "CMakeFiles/lab4.dir/main.cpp.obj"
-  "lab4.exe"
-  "lab4.exe.manifest"
-  "lab4.lib"
+  "CMakeFiles/lab4.dir/Class/Citizen.cpp.o"
+  "CMakeFiles/lab4.dir/Class/City.cpp.o"
+  "CMakeFiles/lab4.dir/Class/PostalCode.cpp.o"
+  "CMakeFiles/lab4.dir/main.cpp.o"
+  "lab4"
   "lab4.pdb"
 )
 

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gabrielpolak/Documents/zaawansowanycpp/kolokwium/Dziecko.h
+iostream
+-
+
+/Users/gabrielpolak/Documents/zaawansowanycpp/kolokwium/Prezent.h
+iostream
+-
+Dziecko.h
+/Users/gabrielpolak/Documents/zaawansowanycpp/kolokwium/Dziecko.h
+
+/Users/gabrielpolak/Documents/zaawansowanycpp/kolokwium/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+map
+-
+Dziecko.h
+/Users/gabrielpolak/Documents/zaawansowanycpp/kolokwium/Dziecko.h
+Prezent.h
+/Users/gabrielpolak/Documents/zaawansowanycpp/kolokwium/Prezent.h
+

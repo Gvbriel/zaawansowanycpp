@@ -8,12 +8,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/gabri/CLionProjects/lab4/Class/Citizen.cpp" "C:/Users/gabri/CLionProjects/lab4/cmake-build-debug/CMakeFiles/lab4.dir/Class/Citizen.cpp.obj"
-  "C:/Users/gabri/CLionProjects/lab4/Class/City.cpp" "C:/Users/gabri/CLionProjects/lab4/cmake-build-debug/CMakeFiles/lab4.dir/Class/City.cpp.obj"
-  "C:/Users/gabri/CLionProjects/lab4/Class/PostalCode.cpp" "C:/Users/gabri/CLionProjects/lab4/cmake-build-debug/CMakeFiles/lab4.dir/Class/PostalCode.cpp.obj"
-  "C:/Users/gabri/CLionProjects/lab4/main.cpp" "C:/Users/gabri/CLionProjects/lab4/cmake-build-debug/CMakeFiles/lab4.dir/main.cpp.obj"
+  "/Users/gabrielpolak/Documents/zaawansowanycpp/lab4/Class/Citizen.cpp" "/Users/gabrielpolak/Documents/zaawansowanycpp/lab4/cmake-build-debug/CMakeFiles/lab4.dir/Class/Citizen.cpp.o"
+  "/Users/gabrielpolak/Documents/zaawansowanycpp/lab4/Class/City.cpp" "/Users/gabrielpolak/Documents/zaawansowanycpp/lab4/cmake-build-debug/CMakeFiles/lab4.dir/Class/City.cpp.o"
+  "/Users/gabrielpolak/Documents/zaawansowanycpp/lab4/Class/PostalCode.cpp" "/Users/gabrielpolak/Documents/zaawansowanycpp/lab4/cmake-build-debug/CMakeFiles/lab4.dir/Class/PostalCode.cpp.o"
+  "/Users/gabrielpolak/Documents/zaawansowanycpp/lab4/main.cpp" "/Users/gabrielpolak/Documents/zaawansowanycpp/lab4/cmake-build-debug/CMakeFiles/lab4.dir/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "MSVC")
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

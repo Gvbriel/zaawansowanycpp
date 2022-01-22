@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gabrielpolak/Documents/zaawansowanycpp/lab9/Student.h
+iostream
+-
+
+/Users/gabrielpolak/Documents/zaawansowanycpp/lab9/StudentFile.h
+iostream
+-
+vector
+-
+string
+-
+fstream
+-
+Student.h
+/Users/gabrielpolak/Documents/zaawansowanycpp/lab9/Student.h
+
+/Users/gabrielpolak/Documents/zaawansowanycpp/lab9/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+iomanip
+-
+regex
+-
+vector
+-
+sstream
+-
+algorithm
+-
+Student.h
+/Users/gabrielpolak/Documents/zaawansowanycpp/lab9/Student.h
+StudentFile.h
+/Users/gabrielpolak/Documents/zaawansowanycpp/lab9/StudentFile.h
+

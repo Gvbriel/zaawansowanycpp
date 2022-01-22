@@ -8,10 +8,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/gabri/CLionProjects/lab12/Car.cpp" "C:/Users/gabri/CLionProjects/lab12/cmake-build-debug/CMakeFiles/lab12.dir/Car.cpp.obj"
-  "C:/Users/gabri/CLionProjects/lab12/main.cpp" "C:/Users/gabri/CLionProjects/lab12/cmake-build-debug/CMakeFiles/lab12.dir/main.cpp.obj"
+  "/Users/gabrielpolak/Documents/zaawansowanycpp/lab12/Car.cpp" "/Users/gabrielpolak/Documents/zaawansowanycpp/lab12/cmake-build-debug/CMakeFiles/lab12.dir/Car.cpp.o"
+  "/Users/gabrielpolak/Documents/zaawansowanycpp/lab12/main.cpp" "/Users/gabrielpolak/Documents/zaawansowanycpp/lab12/cmake-build-debug/CMakeFiles/lab12.dir/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "MSVC")
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
